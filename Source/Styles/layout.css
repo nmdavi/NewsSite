@@ -1,0 +1,99 @@
+body {
+    margin: 0px;
+    background-color: #f1f1f1;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.a-name:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+}
+
+.top {
+    background-color: white;
+    padding: 40px 0px 0px;
+}
+
+.content {
+    background-color: #f1f1f1;
+    padding: 0px;
+    box-sizing: border-box;
+    margin: auto;
+    width: 100%;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    margin: 0 auto 30px;
+    background-color: #880909;
+}
+
+.footer {
+    clear: both;
+    height: 200px;
+    width: 100%;
+    background-color: #9a0000;
+    margin-top: 100px;
+    padding-top: 20px;
+}
+
+.footer-logo {
+    height: 80px;
+    width: 80px;
+    margin-left: 255px;
+    margin-bottom: 20px;
+    background-color: #880909;
+}
+
+.footer-navbar {
+    text-align: center;
+}
+
+.footer-menu {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10.5px;
+}
+
+.footer-menu:hover {
+    cursor: pointer;
+    background-color: #880909;
+}
+
+.footer-copyright {
+    clear: both;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+    .footer {
+        height: 100%;
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+    .footer-logo {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width: 2700px) {
+    .content {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 4000px) {
+    .content {
+        width: 60%;
+    }
+}

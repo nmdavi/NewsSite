@@ -1,0 +1,26 @@
+.register-form {
+    width: 400px;
+    margin: 40px auto 0;
+}
+
+.register-main {
+    padding: 15px;
+    height: 360px;
+    box-shadow: 0px 3px 2px gray;
+}
+
+.form-list-name {
+    padding: 0 30px 0;
+    width: 100px;
+    float: left;
+}
+
+.form-email-pass {
+    clear: both;
+    margin-left: 30px;
+}
+
+.form-rules {
+    margin-top: 5px;
+    margin-left: 28px;
+}

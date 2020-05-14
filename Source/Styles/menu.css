@@ -1,0 +1,106 @@
+.navlogo-0 {
+    float: left;
+    width: 10px;
+    margin-top: 5.8px;
+    margin-right: 1px;
+    padding: 0px;
+}
+
+.navlogo-1,
+.navlogo-2,
+.navlogo-3 {
+    margin-bottom: 2px;
+    height: 3px;
+    width: 18px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.navlogo {
+    cursor: pointer;
+    float: left;
+    margin-right: -8px;
+    padding: 10.5px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navlogo-menu {
+    padding-left: 15px;
+    padding-right: 10px;
+    border-right: 1px solid white;
+}
+
+.navbar {
+    height: 44px;
+    width: 100%;
+    text-align: center;
+    background-color: #9a0000;
+}
+
+.navbar-menu {
+    width: 885px;
+    margin: auto;
+}
+
+.sub-navbar,
+.one-navbar {
+    margin-left: 19%;
+}
+
+.sub-navbar-menu {
+    position: absolute;
+    top: 178px;
+    height: 44px;
+    padding: 0px;
+    background-color: #9a0000;
+}
+
+.one-navbar {}
+
+.one-navbar-menu {
+    position: absolute;
+    top: 222px;
+    padding: 0px;
+    background-color: #9a0000;
+}
+
+.one-menu {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10.5px;
+}
+
+.one-sub-navbar {}
+
+.one-sub-navbar-menu {
+    position: absolute;
+    top: 266px;
+    margin-left: 398px;
+    padding: 0px;
+    background-color: #9a0000ce;
+}
+
+.menu {
+    float: left;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10.5px;
+}
+
+.register {
+    background-color: rgba(3, 3, 3, 0.247);
+}
+
+.submenu {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10.5px;
+}
+
+.menu:hover,
+.one-menu:hover {
+    cursor: pointer;
+    background-color: #880909;
+}

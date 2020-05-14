@@ -1,0 +1,25 @@
+.login-form {
+    width: 350px;
+    margin: 40px auto 0;
+    text-align: center;
+}
+
+.login-main {
+    margin: auto;
+    width: 350px;
+    /* background-color: red; */
+    /* padding-left: 20px; */
+    height: 250px;
+    box-shadow: 0px 3px 2px gray;
+}
+
+.forgot-pass {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.message-recover {
+    color: rgb(77, 77, 77);
+    margin-bottom: 20px;
+}

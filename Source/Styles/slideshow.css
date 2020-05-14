@@ -1,0 +1,21 @@
+.slideshow {
+    margin-bottom: 100px;
+}
+
+.left-button, .right-button {
+    cursor: pointer;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: transparent;
+    border: 0px;
+}
+
+.left-button {
+    float: left;
+    margin-top: 100px;
+}
+
+.right-button {
+    float: right;
+    margin-top: -130px;
+}
